@@ -1,5 +1,5 @@
 # PrecisePal
-A web application that enables users to scan and upload long and exhausting texts via images or direct texts and get summarized text on just one click!<br>
+A Mobile Application that enables users to scan and upload long and exhausting texts via images or direct texts and get summarized text on just one click!<br>
 It uses abstractive Natural Language Processing(NLP) that aims of producing fluent and concise summary while giving overall meaning from the source text. <br>
 # Features of PrecisePal:
 * Import Documents from camera or gallery
