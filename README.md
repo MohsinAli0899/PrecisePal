@@ -14,7 +14,9 @@ It uses abstractive Natural Language Processing(NLP) that aims of producing flue
 # Presentation 
 [PrecisePal (1).pptx](https://github.com/MohsinAli0899/PrecisePal/files/8548481/PrecisePal.1.pptx)
 # Screenshots
+<p align="center">
 <img src="https://user-images.githubusercontent.com/70585276/164943399-49c2aeb9-05c7-4da6-bc56-92ef121bd0aa.jpeg" width="25%">
 <img src="https://user-images.githubusercontent.com/70585276/164944010-fd3aaeeb-c98f-4f35-8cd7-63b0563bd3d1.jpeg" width="25%">
 <img src="https://user-images.githubusercontent.com/70585276/164944010-fd3aaeeb-c98f-4f35-8cd7-63b0563bd3d1.jpeg" width="25%">
 <img src="https://user-images.githubusercontent.com/70585276/164944013-d0cde00c-1e2c-420e-b7ad-941541d65eb7.jpeg" width="25%">
+</p>
