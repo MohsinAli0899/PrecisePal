@@ -11,7 +11,8 @@ It uses abstractive Natural Language Processing(NLP) that aims of producing flue
 # Steps to setup the project
 * Download Android Studio
 * Open App
-
+# Presentation 
+[PrecisePal (1).pptx](https://github.com/MohsinAli0899/PrecisePal/files/8548481/PrecisePal.1.pptx)
 # Screenshots
 ![WhatsApp Image 2022-04-24 at 12 54 37 AM](https://user-images.githubusercontent.com/70585276/164943399-49c2aeb9-05c7-4da6-bc56-92ef121bd0aa.jpeg)
 ![WhatsApp Image 2022-04-24 at 12 49 05 AM](https://user-images.githubusercontent.com/70585276/164944006-67eea2ed-5a38-4a74-8e05-6b67607b0fc9.jpeg)
