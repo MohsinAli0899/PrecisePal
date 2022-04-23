@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761705446343",
+    "project_id": "text-recognizer-app-f1b4e",
+    "storage_bucket": "text-recognizer-app-f1b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761705446343:android:0fbdb3ddbc98b6ec93f7e2",
+        "android_client_info": {
+          "package_name": "com.ali.textrecognizerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761705446343-5htqfaoueg395egmvcmpnmnjrka1jfgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbxwYhBros1fLP6-cLkoqxxBOkd_nO-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761705446343-5htqfaoueg395egmvcmpnmnjrka1jfgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
